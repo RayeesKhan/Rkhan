@@ -1,0 +1,11 @@
+ Volume in drive C is SOE
+ Volume Serial Number is 92E4-2295
+
+ Directory of C:\Users\rkhan59\Desktop\Project
+
+09/13/2019  11:06 AM    <DIR>          .
+09/13/2019  11:06 AM    <DIR>          ..
+09/13/2019  11:05 AM    <DIR>          .git
+09/13/2019  11:06 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  182,919,573,504 bytes free
